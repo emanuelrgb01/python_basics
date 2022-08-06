@@ -1,0 +1,6 @@
+2) Nome do aluno: Arnaldo,  Idade: 21
+2) Nome do aluno: Bernaldo,  Idade: 23
+2) Nome do aluno: Cernaldo,  Idade: 25
+2) Nome do aluno: Dernaldo,  Idade: 26
+2) Nome do aluno: Eernaldo,  Idade: 20
+2) Nome do aluno: Fernaldo,  Idade: 16
